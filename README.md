@@ -1,2 +1,2 @@
-# reinterpreting_survival-analysis_in_the_universal_approximator_age
-Reinterpreting Survival Analysis in the Universal Approximator Age
+# Reinterpreting Survival Analysis in the Universal Approximator Age
+This repo provides the accompanying code of the paper "Interpreting Survival Analysis in the Universal Approximator Age."
